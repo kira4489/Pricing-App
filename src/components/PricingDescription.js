@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class PricingDescription extends Component{
  constructor (props){
      super(props);
-     this.sate ={
+     this.state ={
 
      }
 }

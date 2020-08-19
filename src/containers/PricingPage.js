@@ -5,6 +5,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import MainPricing from '../components/MainPricing';
+import Footer from '../components/Footer';
 
 class PricingPage extends React.Component{
  render(){
@@ -34,6 +35,7 @@ class PricingPage extends React.Component{
          }
          />
          <MainPricing />
+         <Footer />
          </React.Fragment>
      );
  }
